@@ -1,0 +1,4 @@
+A. Adamov and A. Carlsson, "The state of ransomware. Trends and mitigation techniques," 2017 IEEE East-West Design & Test Symposium (EWDTS), Novi Sad, Serbia, 2017, pp. 1-8, doi: 10.1109/EWDTS.2017.8110056. keywords: {Malware;Encryption;Servers;Bitcoin;Tools;Elliptic curve cryptography},
+McIntosh, T., Kayes, A. S. M., Chen, Y. P. P., Ng, A., & Watters, P. (2021). Ransomware mitigation in the modern era: A comprehensive review, research challenges, and future directions. ACM Computing Surveys (CSUR), 54(9), 1-36.
+
+
